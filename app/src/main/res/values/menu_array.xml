@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="test">
+    <item>치킨마요 도시락</item>
+    <item>치킨스테이크 덮밥</item>
+    <item>제육볶음</item>
+    <item>스팸마요</item>
+    <item>숯불삼겹 정식</item>
+    <item>제육 김치찌개</item>
+    <item>소불고기</item>
+</string-array>
+</resources>

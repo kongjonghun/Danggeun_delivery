@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hour">
+        <item>1시간</item>
+        <item>1시간 30분</item>
+        <item>2시간</item>
+        <item>2시간 30분</item>
+        <item>3시간</item>
+        <item>3시간 30분</item>
+    </string-array>
+</resources>
