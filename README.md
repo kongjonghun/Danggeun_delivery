@@ -5,6 +5,7 @@
 #### 제작 기간 : 2개월
 #### 팀원 구성 : 3명
 #### 담당 역할 : 팀장 
+#### 사용 툴 : Android Studio, Firebase, PostgreSQL, PHP, Node.js, QGIS
 #### 담당 업무 : Android Studio, Firebase, PostgreSQL
 #### 완성도 기여 : 40 %
 #### 기타 : 특허 출원 진행중
